@@ -10,6 +10,9 @@ The classes of such lesions are:
 * Melanocytic nevi
 * Melanoma
 * Vascular Lesions
+
+Some images are reported below as an example:
+![image](data.png "Data samples")
 ## Approach
 The proposed approach consists in a Convolutional Neural Network, for multi-class image classification, which has been implemented from scratch.
 ## Usage
