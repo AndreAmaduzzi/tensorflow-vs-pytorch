@@ -17,3 +17,8 @@ Some images are reported below as an example:
 The proposed approach consists in a Convolutional Neural Network, for multi-class image classification, which has been implemented from scratch.
 ## Usage
 This repository contains two files: one for each framework. Inside each notebook, there is all the information and code needed to load and prepare the dataset properly.
+## Results
+| Framework      | Training accuracy | Validation accuracy | Test accuracy |
+| ----------     | ----------------- | ------------------- | --------------|
+| Pytorch        |      89.29%       |        81.72%       |    70.03%     |     
+| Tensorflow     |      89.18%       |        80.30%       |    68.75%     |
